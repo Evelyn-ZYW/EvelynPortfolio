@@ -1,9 +1,11 @@
 import React from 'react';
 import styled from "styled-components";
 
+import Header from 'comps/Header';
+
 const Main = () => {
     return <div className="main">
-        This is the page for testings
+        <Header />
     </div>
 }
 
