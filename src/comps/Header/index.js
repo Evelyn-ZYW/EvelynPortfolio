@@ -12,8 +12,9 @@ const Container = styled.div`
     justify-content:space-around;
     // background: linear-gradient(#F9F8F8, #CBE896);
     // background-color:#B5935F;
-    border-bottom: 1px solid #98E3F9;
+    // border-bottom: 1px solid #98E3F9;
     // box-shadow: 0px 5px 20px #AFDEDC;
+    box-shadow: 0 2px 4px -1px rgb(0 0 0 / 25%);
     color: #A57548;
     padding: 2%;
 `;
