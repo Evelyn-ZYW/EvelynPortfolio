@@ -16,7 +16,7 @@ const Container = styled.div`
     // box-shadow: 0px 5px 20px #AFDEDC;
     box-shadow: 0 2px 4px -1px rgb(0 0 0 / 25%);
     color: #A57548;
-    padding: 2%;
+    padding: 2% 0 2% 0;
 `;
 const Left = styled.div`
     display: flex;
